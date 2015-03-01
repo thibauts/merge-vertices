@@ -1,0 +1,21 @@
+{
+  "name": "merge-vertices",
+  "version": "1.0.0",
+  "description": "Merges mesh vertices having identical coordinates",
+  "author": "thibauts",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thibauts/merge-vertices.git"
+  },
+  "keywords": [
+    "merge",
+    "vertices"
+  ]
+}
