@@ -10,8 +10,6 @@ function mergeVertices(cells, positions) {
     positionLookup[hashPosition(position)] = position;
   });
 
-  console.log(positionLookup)
-
   var keys = Object.keys(positionLookup);
 
   var indexLookup = {};
